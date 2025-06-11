@@ -19,7 +19,7 @@ In this repository, you can explore the projects I've completed throughout my ac
 * [Microcontroller Peripherals Real Time System](https://github.com/JuanMartinCB/CDyM-Microcontroller-Peripherals-Real-Time-System): Comprehensive AVR microcontroller project featuring LCD display control, 4x4 keypad interfacing, interrupt handling, timer-based scheduling, finite state machines and real-time clock implementation, developed in Microchip Studio and simulated in Proteus.
 
 ### Software Engineering 
-* [Vehicle Rental Web](): Ruby on Rails (Bootstrap for frontend) web application featuring user registration system, document verification, digital wallet with MercadoPago integration, administrative dashboard for vehicles and staff management, Amazon database for image storage, and interactive La Plata city map for vehicle location visualization. Project developed using Agile Scrum methodology with active client participation.
+* [Vehicle Rental Web](https://github.com/leonelg99/alquilapp): Ruby on Rails (Bootstrap for frontend) web application featuring user registration system, document verification, digital wallet with MercadoPago integration, administrative dashboard for vehicles and staff management, Amazon database for image storage, and interactive La Plata city map for vehicle location visualization. Project developed using Agile Scrum methodology with active client participation.
 
 ## Courses:
 
